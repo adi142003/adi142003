@@ -1,21 +1,51 @@
-<h1 align="center">Hi 👋, I'm Adithya</h1>
-<h3 align="center">A passionate final year student at PES university</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Multimodal Hate content detection in memes**
+# Hi, I'm Adithya 👋
 
-- 🌱 I’m currently learning **AWS, Cisco courses**
+**I build things, break abstractions, and occasionally figure out why they work.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adi142003](https://github.com/adi142003)
+AI agents · infrastructure · software systems · curious rabbit holes
 
-- 💬 Ask me about **Cybersecurity, Blockchain**
+</div>
 
-- 📫 How to reach me **adithya140514@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adithya-b-516ab1248/](https://www.linkedin.com/in/adithya-b-516ab1248/)
+### 🧭 What I'm up to
 
+These days I'm spending most of my time around **AI agents and the systems underneath them** — models, tools, runtimes, orchestration, and all the little pieces that make an agent useful outside of a demo.
+
+I'm also deliberately going back to fundamentals. The more I build, the more I want to understand what's happening below the abstractions.
+
+> Current rabbit holes: **agent architecture, inference infrastructure, AWS/Bedrock, and computer systems.**
+
+### 🔨 Things I like building
+
+- 🤖 **Agents** — workflows that can actually get things done
+- 🧱 **Infrastructure** — the boring-but-important pieces around models and agents
+- 🧪 **Experiments** — small projects to answer questions rather than win hackathons
+- 🕳️ **Rabbit holes** — sometimes the project is just *"wait, how does this actually work?"*
+
+### 🛠️ Tools I tend to reach for
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,aws,docker,kubernetes,linux,git,github" alt="Python, Go, AWS, Docker, Kubernetes, Linux, Git, GitHub" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+And increasingly: **Claude, Bedrock, AgentCore, LiteLLM, and whatever else helps me poke at the problem.**
+
+### 🧠 A few things I believe
+
+- **Understand the abstraction before trusting it.**
+- **Build the smallest thing that answers the question.**
+- **Good engineering starts with good questions.**
+- **It's okay for a project to start as a weird idea.**
+
+### 📌 Around here
+
+You'll find a somewhat uneven collection of projects — from college experiments to things I'm actually interested in now.
+
+That's intentional. **This profile is a workbench, not a museum.**
+
+### 🌐 Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/adithya-b-516ab1248/) · [Email](mailto:adithya140514@gmail.com)
