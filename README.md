@@ -8,8 +8,8 @@ AI agents · infrastructure · software systems · curious rabbit holes
 
 <br>
 
-<a href="https://www.linkedin.com/in/adithya-b-516ab1248/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="36" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:adithya140514@gmail.com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="36" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/adithya-b-516ab1248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:adithya140514@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
 
 </div>
 
@@ -41,9 +41,9 @@ I'm also deliberately going back to fundamentals. The more I build, the more I w
 **AI & Development**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claude.svg" width="44" alt="Claude Code" />&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="44" alt="ChatGPT" />&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" width="44" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=claude&logoColor=white" height="32" alt="Claude Code" />&nbsp;
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="ChatGPT" />&nbsp;
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" height="32" alt="Cursor" />
 </p>
 
 And whatever else helps me poke at the problem.
