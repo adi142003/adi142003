@@ -6,6 +6,11 @@
 
 AI agents · infrastructure · software systems · curious rabbit holes
 
+<br>
+
+<a href="https://www.linkedin.com/in/adithya-b-516ab1248/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:adithya140514@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
+
 </div>
 
 ---
@@ -25,13 +30,21 @@ I'm also deliberately going back to fundamentals. The more I build, the more I w
 - 🧪 **Experiments** — small projects to answer questions rather than win hackathons
 - 🕳️ **Rabbit holes** — sometimes the project is just *"wait, how does this actually work?"*
 
-### 🛠️ Tools I tend to reach for
+### ⚡ My Current Stack
+
+**Languages & Infrastructure**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,aws,docker,kubernetes,linux,git,github" alt="Python, Go, AWS, Docker, Kubernetes, Linux, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,aws,docker" alt="Python, TypeScript, AWS, Docker" />
 </p>
 
-And increasingly: **Claude, Bedrock, AgentCore, LiteLLM, and whatever else helps me poke at the problem.**
+**AI & Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=claude,chatgpt,cursor" alt="Claude Code, ChatGPT, Cursor" />
+</p>
+
+And whatever else helps me poke at the problem.
 
 ### 🧠 A few things I believe
 
@@ -46,6 +59,4 @@ You'll find a somewhat uneven collection of projects — from college experiment
 
 That's intentional. **This profile is a workbench, not a museum.**
 
-### 🌐 Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/adithya-b-516ab1248/) · [Email](mailto:adithya140514@gmail.com)
+</div>
