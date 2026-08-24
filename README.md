@@ -1,27 +1,51 @@
+<div align="center">
+
 # Hi, I'm Adithya 👋
 
-I build things and spend a lot of time trying to understand how they actually work.
+**I build things, break abstractions, and occasionally figure out why they work.**
 
-These days, I'm particularly interested in **AI agents, agent infrastructure, and software systems** — especially the boundary between models, tools, runtimes, and the systems around them.
+AI agents · infrastructure · software systems · curious rabbit holes
 
-I also like going down rabbit holes. Sometimes that means building something useful; sometimes it means figuring out what's happening underneath an abstraction.
+</div>
 
-## Currently exploring
+---
 
-- AI agents and reliable agent workflows
-- Model/provider abstractions and inference infrastructure
-- AWS, Bedrock, and production AI systems
-- Software and computer systems fundamentals
-- Small tools and ideas that are worth turning into something real
+### 🧭 What I'm up to
 
-## A few things I care about
+These days I'm spending most of my time around **AI agents and the systems underneath them** — models, tools, runtimes, orchestration, and all the little pieces that make an agent useful outside of a demo.
 
-- Understanding systems rather than only using abstractions
-- Building simple things before making them complicated
-- Learning by experimenting
-- Following interesting questions wherever they lead
+I'm also deliberately going back to fundamentals. The more I build, the more I want to understand what's happening below the abstractions.
 
-## Elsewhere
+> Current rabbit holes: **agent architecture, inference infrastructure, AWS/Bedrock, and computer systems.**
 
-- [LinkedIn](https://www.linkedin.com/in/adithya-b-516ab1248/)
-- [Email](mailto:adithya140514@gmail.com)
+### 🔨 Things I like building
+
+- 🤖 **Agents** — workflows that can actually get things done
+- 🧱 **Infrastructure** — the boring-but-important pieces around models and agents
+- 🧪 **Experiments** — small projects to answer questions rather than win hackathons
+- 🕳️ **Rabbit holes** — sometimes the project is just *"wait, how does this actually work?"*
+
+### 🛠️ Tools I tend to reach for
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,aws,docker,kubernetes,linux,git,github" alt="Python, Go, AWS, Docker, Kubernetes, Linux, Git, GitHub" />
+</p>
+
+And increasingly: **Claude, Bedrock, AgentCore, LiteLLM, and whatever else helps me poke at the problem.**
+
+### 🧠 A few things I believe
+
+- **Understand the abstraction before trusting it.**
+- **Build the smallest thing that answers the question.**
+- **Good engineering starts with good questions.**
+- **It's okay for a project to start as a weird idea.**
+
+### 📌 Around here
+
+You'll find a somewhat uneven collection of projects — from college experiments to things I'm actually interested in now.
+
+That's intentional. **This profile is a workbench, not a museum.**
+
+### 🌐 Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/adithya-b-516ab1248/) · [Email](mailto:adithya140514@gmail.com)
