@@ -8,8 +8,8 @@ AI agents · infrastructure · software systems · curious rabbit holes
 
 <br>
 
-<a href="https://www.linkedin.com/in/adithya-b-516ab1248/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:adithya140514@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/adithya-b-516ab1248/"><img src="https://cdn.simpleicons.org/linkedin" width="36" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:adithya140514@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="36" alt="Email" /></a>
 
 </div>
 
@@ -41,7 +41,9 @@ I'm also deliberately going back to fundamentals. The more I build, the more I w
 **AI & Development**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=claude,chatgpt,cursor" alt="Claude Code, ChatGPT, Cursor" />
+  <img src="https://cdn.simpleicons.org/claude" width="44" alt="Claude Code" />&nbsp;
+  <img src="https://cdn.simpleicons.org/openai" width="44" alt="ChatGPT" />&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor" width="44" alt="Cursor" />
 </p>
 
 And whatever else helps me poke at the problem.
@@ -58,5 +60,3 @@ And whatever else helps me poke at the problem.
 You'll find a somewhat uneven collection of projects — from college experiments to things I'm actually interested in now.
 
 That's intentional. **This profile is a workbench, not a museum.**
-
-</div>
