@@ -6,6 +6,11 @@
 
 AI agents · infrastructure · software systems · curious rabbit holes
 
+<br>
+
+<a href="https://www.linkedin.com/in/adithya-b-516ab1248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:adithya140514@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+
 </div>
 
 ---
@@ -25,13 +30,23 @@ I'm also deliberately going back to fundamentals. The more I build, the more I w
 - 🧪 **Experiments** — small projects to answer questions rather than win hackathons
 - 🕳️ **Rabbit holes** — sometimes the project is just *"wait, how does this actually work?"*
 
-### 🛠️ Tools I tend to reach for
+### ⚡ My Current Stack
+
+**Languages & Infrastructure**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,aws,docker,kubernetes,linux,git,github" alt="Python, Go, AWS, Docker, Kubernetes, Linux, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,aws,docker" alt="Python, TypeScript, AWS, Docker" />
 </p>
 
-And increasingly: **Claude, Bedrock, AgentCore, LiteLLM, and whatever else helps me poke at the problem.**
+**AI & Development**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=claude&logoColor=white" height="32" alt="Claude Code" />&nbsp;
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="ChatGPT" />&nbsp;
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" height="32" alt="Cursor" />
+</p>
+
+And whatever else helps me poke at the problem.
 
 ### 🧠 A few things I believe
 
@@ -45,7 +60,3 @@ And increasingly: **Claude, Bedrock, AgentCore, LiteLLM, and whatever else helps
 You'll find a somewhat uneven collection of projects — from college experiments to things I'm actually interested in now.
 
 That's intentional. **This profile is a workbench, not a museum.**
-
-### 🌐 Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/adithya-b-516ab1248/) · [Email](mailto:adithya140514@gmail.com)
