@@ -9,7 +9,7 @@ AI agents · infrastructure · software systems · curious rabbit holes
 <br>
 
 <a href="https://www.linkedin.com/in/adithya-b-516ab1248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:adithya140514@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+<a href="https://www.reddit.com/user/adi1405/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" alt="Reddit" /></a>
 
 </div>
 
