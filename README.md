@@ -21,7 +21,7 @@ These days I'm spending most of my time around **AI agents and the systems under
 
 I'm also deliberately going back to fundamentals. The more I build, the more I want to understand what's happening below the abstractions.
 
-> Current rabbit holes: **agent architecture, inference infrastructure, AWS/Bedrock, and computer systems.**
+> Current rabbit holes: **agent architecture, inference infrastructure, AWS, and computer systems.**
 
 ### 🔨 Things I like building
 
